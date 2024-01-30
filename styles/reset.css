@@ -1,0 +1,46 @@
+* {
+    /* Set the margin, padding, and border properties to zero */
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+header {
+        background-color: darkblue;
+        background-image: linear-gradient(to left, darkblue, blue);
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        font-size: 20px;
+        height: 150px;
+}   
+
+main {
+    background-color: whitesmoke;
+    display:flex;
+}
+
+aside {
+    background-color: lightblue;
+
+}
+
+    
+.form {
+        text-align: left;
+}
+
+.forecast {
+    background-color: darkgray;
+    color:white;
+    display:flex;
+    display: inline;
+}
