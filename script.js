@@ -10,7 +10,7 @@ function displayWeatherInfo() {
 // Add your own API key between the ""
 var APIKey = "30deb5d8ff82c53f9be157c4f5caa581";
 
-var queryURL = "http://api.openweathermap.org/geo/1.0/direct?q={" + city + "}&limit=5&appid=" + APIKey;
+var queryURL = "https://api.openweathermap.org/geo/1.0/direct?q={" + city + "}&limit=5&appid=" + APIKey;
 // Here we are building the URL we need to query the database
 
 // We then created an Fetch call
