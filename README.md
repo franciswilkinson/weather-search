@@ -9,7 +9,7 @@ A project to use objects, functions, methods, and APIs.
 - Commented Javascipt files.
 - Published at [(https://franciswilkinson.github.io/weather-search/)]
 
-![weather-search](https://github.com/franciswilkinson/weather-search/blob/main/images/Screenshot1.png "weather search")
+![weather-search](https://github.com/franciswilkinson/weather-search/blob/main/images/Screenshot1.jpeg "weather search")
 
 
 
